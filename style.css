@@ -1,0 +1,73 @@
+
+* {
+color: aliceblue;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+background-color: rgb(8, 10, 15);
+}
+
+.titulo{
+text-align: center;
+padding: 10px;
+}
+.rutas{
+padding: 132px;
+box-sizing:0px;
+}
+#presentacion{
+text-align: center;
+word-spacing: 5px;
+line-height:50px;
+}
+
+.pregunta{
+text-align: center;
+line-height: 75px;
+}
+.respuesta{
+text-align: center;
+line-height: 35px;
+font-size: 18px;
+}
+#cuerpo{
+text-align: center;
+line-height: 90px;
+font-size: 19px;
+}
+.definiciones{
+line-height: 30px;
+text-align: left;
+}
+.imgeva{
+width: 270px;
+height: 270px;
+}
+.imgcris{
+width: 380px;
+height: 210px;
+}
+.titulos{
+text-align: left;
+}
+.img{
+width: 450px;
+height: 250px ;
+}
+.img{
+width: 450px;
+height: 250px;
+}
+.img{
+width: 450px;
+height: 250px;
+}
+.img{
+width: 450px;
+height: 250px;
+}
+.img{
+width: 450px;
+height: 250px;
+}
